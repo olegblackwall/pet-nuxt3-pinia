@@ -1,0 +1,22 @@
+{
+  "name": "nuxt3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@babel/types": "^7.24.7",
+    "bootstrap": "^5.3.3",
+    "nuxt": "^3.12.2",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "sass": "^1.77.6",
+    "sass-loader": "^14.2.1"
+  }
+}
