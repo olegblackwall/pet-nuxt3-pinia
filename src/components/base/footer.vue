@@ -1,14 +1,13 @@
 <template>
-  <footer class="footer">
-    <p>&copy; 2024 Your Company</p>
-  </footer>
+    <footer class="footer">
+        <p>&copy; 2024 Your Company</p>
+    </footer>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
 
 <style scoped lang="sass">
-  .footer
+.footer
     text-align: center
     padding: 20px 0
     background: #42b983

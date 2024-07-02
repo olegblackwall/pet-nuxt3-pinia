@@ -24,7 +24,7 @@ export default defineComponent({
         })
 
         const acceptCookies = () => {
-            document.cookie = "кука=есть; path=/; max-age=6000"
+            document.cookie = "кука=есть; path=/; max-age=72000"
             showBanner.value = false
         }
 
